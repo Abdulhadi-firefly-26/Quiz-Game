@@ -1,0 +1,360 @@
+What is 5 * 6 ?
+28
+30
+32
+36
+2
+What is the square root of 16 ?
+2
+4
+6
+8
+2
+What is 12 / 3 ?
+2
+3
+4
+6
+3
+What is the perimeter of a square with side 5 ?
+15
+20
+25
+30
+2
+What is 7 + 8 ?
+12
+14
+15
+16
+3
+What is the value of pi to two decimal places ?
+3.10
+3.14
+3.20
+3.41
+2
+What is 9 - 4 ?
+3
+4
+5
+6
+3
+Which unit measures force ?
+Newton
+Joule
+Watt
+Meter
+1
+What is the boiling point of water at sea level ?
+0 deg C
+50 deg C
+100 deg C
+150 deg C
+3
+Which planet is known as the Red Planet ?
+Earth
+Mars
+Venus
+Jupiter
+2
+What is the chemical symbol for gold ?
+Ag
+Au
+Fe
+Pb
+2
+Which gas do plants absorb during photosynthesis ?
+Oxygen
+Nitrogen
+Carbon Dioxide
+Hydrogen
+3
+What is the basic unit of life ?
+Organ
+Tissue
+Cell
+Molecule
+3
+What is the unit of electric current ?
+Volt
+Ohm
+Ampere
+Watt
+3
+What color is produced by mixing blue and yellow ?
+Red
+Green
+Orange
+Purple
+2
+What is the chemical symbol for Oxygen ?
+O
+Ox
+Oy
+Oz
+1
+What type of simple machine is a ramp ?
+Lever
+Wheel and Axle
+Screw
+Inclined Plane
+4
+Which of the following is a metalloid ?
+Sodium
+Silicon
+Chlorine
+Iron
+2
+What is the pH of a neutral solution ?
+14
+1
+7
+0
+3
+What is the primary function of the heart ?
+Digesting food
+Filtering waste
+Pumping blood
+Producing hormones
+3
+If x = 3, what is 2x + 1 ?
+5
+7
+4
+6
+2
+How many degrees are in a straight angle ?
+90 deg
+180 deg
+270 deg
+360 deg
+2
+What term describes the path an object takes around another in space ?
+Orbit
+Rotation
+Axis
+Revolution
+1
+If a square has side 4 cm, what is its perimeter ?
+12 cm
+8 cm
+16 cm
+20 cm
+3
+What is the main ingredient in glass ?
+Clay
+Sand
+Salt
+Water
+2
+A car accelerates from 10 m/s to 30 m/s in 4 s. Average acceleration ?
+10 m/s^2
+5 m/s^2
+20 m/s^2
+8 m/s^2
+2
+What type of bond involves sharing electrons ?
+Ionic
+Metallic
+Covalent
+Hydrogen
+3
+What is the dense center of an atom ?
+Electron
+Neutron
+Nucleus
+Proton
+3
+In genetics, what is the term for observable traits ?
+Genotype
+Phenotype
+Allele
+Chromosome
+2
+Volume of cylinder radius 3 cm, height 10 cm (pi≈3.14) ?
+282.6 cm^3
+30 cm^3
+94.2 cm^3
+314 cm^3
+1
+What phenomenon bends light as it passes mediums ?
+Diffraction
+Reflection
+Interference
+Refraction
+4
+Solve: 3x - 7 = 14
+x=4
+x=7
+x=3
+x=9
+2
+Products of complete combustion of hydrocarbon ?
+CO + H2O
+C + O2
+CO2 + H2O
+H2 + C
+3
+Wave frequency 2 Hz, wavelength 4 m. Speed ?
+0.5 m/s
+8 m/s
+6 m/s
+2 m/s
+2
+Main characteristic of endothermic reaction ?
+Releases heat
+Increases volume
+Absorbs heat
+Produces light
+3
+Area under curve y=2x from x=1 to 3 ?
+8
+4
+10
+6
+4
+Average power dissipated by 12 V battery, 2 A current ?
+6 W
+24 W
+14 W
+0.167 W
+2
+Simplify: 4(2y - 1) - 3y
+8y - 4
+5y - 4
+5y - 1
+11y - 4
+2
+Which layer of atmosphere has most weather ?
+Thermosphere
+Stratosphere
+Troposphere
+Mesosphere
+3
+Function of mitochondria ?
+Protein synthesis
+Waste disposal
+Energy production
+Genetic storage
+3
+Object mass 5 kg, force 20 N. Acceleration ?
+100 m/s^2
+4 m/s^2
+15 m/s^2
+0.25 m/s^2
+2
+If f(x)=x^2 - 3x + 2, what is f(0) ?
+1
+0
+2
+-1
+2
+Minimum energy to start reaction ?
+Gibbs free energy
+Activation energy
+Enthalpy
+Potential energy
+2
+Heisenberg principle: cannot know both perfectly ?
+Energy & momentum
+Position & velocity
+Force & acceleration
+Mass & charge
+2
+Molarity of 0.5 mol NaCl in 500 mL water ?
+0.25 M
+1.0 M
+0.5 M
+2.0 M
+4
+General solution of dy/dx = 2x ?
+y = x^2 + C
+y = 2 + C
+y = 2x^2 + C
+y = C
+1
+Max electrons in n=3 shell ?
+8
+18
+32
+2
+2
+Phenomenon forming rainbow ?
+Polarization
+Total internal reflection
+Dispersion
+Diffraction
+3
+Dot product of a=(3,-1,2), b=(0,4,5) ?
+10
+6
+1
+5
+4
+Abiotic factor in ecosystem ?
+Fungi
+Predators
+Temperature
+Bacteria
+3
+Gas compressed 10 L to 2 L at constant T, initial P=1 atm. Final P ?
+10 atm
+0.2 atm
+5 atm
+2 atm
+3
+Integral of 2x dx ?
+x^2
+x^2 + C
+2 + C
+2x^2 + C
+2
+Derivative of f(x)=x^3 - 2x + 1 ?
+3x^2 - 2
+3x^2 - 2x
+3x^2 + 1
+4x
+1
+Solve quadratic x^2 - 5x + 6 = 0
+x=2,3
+x=-2,3
+x=1,6
+x=-1,-6
+1
+Limit: lim x->3 (x-3)/(x^2 - 9)
+0
+6
+3
+Undefined
+2
+Range of f(x)=x^2 ?
+All real numbers
+x>0
+y>0
+y>=0
+4
+Expression for kinetic energy ?
+mgh
+0.5mv^2
+F*d
+I*R
+2
+Photoelectric effect shows particle nature of ?
+Sound
+Electrons
+Light
+Gravity
+3
+Evaluate arccos(0.5) in degrees (first quadrant) ?
+30 deg
+60 deg
+45 deg
+90 deg
+1
+Determinant of matrix [[2,4],[1,x]] = 6. Value of x ?
+5
+1
+2
+4
+1

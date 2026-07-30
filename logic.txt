@@ -1,0 +1,360 @@
+What is the next number in the sequence: 2, 4, 6, 8, …?
+10
+11
+12
+14
+1
+If all roses are flowers and some flowers fade quickly, which is true?
+All roses fade quickly
+Some roses fade quickly
+All flowers are roses
+Some flowers fade quickly
+4
+Which shape has 3 sides?
+Square
+Triangle
+Circle
+Rectangle
+2
+Which is the odd one out: Dog, Cat, Cow, Chair?
+Dog
+Cat
+Cow
+Chair
+4
+Which number is missing: 5, 10, 15, __, 25?
+18
+20
+22
+30
+2
+Which day comes after Monday?
+Sunday
+Tuesday
+Wednesday
+Friday
+2
+Which is heavier: 1 kg cotton or 1 kg iron?
+Cotton
+Iron
+Both equal
+None
+3
+Which is the odd one out: Apple, Banana, Mango, Car?
+Apple
+Banana
+Mango
+Car
+4
+Which is the opposite of hot?
+Cold
+Warm
+Cool
+Heat
+1
+Which is the odd one out: 2, 4, 6, 9?
+2
+4
+6
+9
+4
+Which is the odd one out: Pen, Pencil, Book, Paper?
+Pen
+Pencil
+Book
+Paper
+3
+Which is the odd one out: Red, Blue, Green, Chair?
+Red
+Blue
+Green
+Chair
+4
+Which is the odd one out: Sun, Moon, Star, Car?
+Sun
+Moon
+Star
+Car
+4
+Which is the odd one out: Horse, Cow, Goat, Table?
+Horse
+Cow
+Goat
+Table
+4
+Which is the odd one out: Shirt, Pant, Shoe, Apple?
+Shirt
+Pant
+Shoe
+Apple
+4
+Which is the odd one out: Bus, Car, Train, Mango?
+Bus
+Car
+Train
+Mango
+4
+Which is the odd one out: Water, Milk, Juice, Stone?
+Water
+Milk
+Juice
+Stone
+4
+Which is the odd one out: Circle, Square, Triangle, Dog?
+Circle
+Square
+Triangle
+Dog
+4
+Which is the odd one out: Book, Pen, Paper, Orange?
+Book
+Pen
+Paper
+Orange
+4
+Which is the odd one out: Cat, Dog, Lion, Banana?
+Cat
+Dog
+Lion
+Banana
+4
+If A is taller than B and B is taller than C, who is tallest?
+A
+B
+C
+Cannot say
+1
+If 2 pencils cost 4 rupees, how much do 6 pencils cost?
+10
+12
+14
+16
+2
+If 5 + 3 = 28, 6 + 2 = 24, then 7 + 4 = ?
+44
+48
+52
+56
+2
+If 3 cats catch 3 mice in 3 minutes, how many cats catch 9 mice in 9 minutes?
+3
+6
+9
+12
+1
+If 2 men build a wall in 4 days, how many men build it in 2 days?
+2
+4
+6
+8
+2
+If 1=2, 2=4, 3=6, then 5=?
+8
+10
+12
+14
+2
+If 10 people shake hands once with each other, how many handshakes?
+20
+30
+40
+45
+4
+If 12 is 25% of a number, what is the number?
+24
+36
+48
+60
+3
+If 15 is 30% of a number, what is the number?
+30
+40
+50
+60
+3
+If 20% of X is 40, what is X?
+100
+150
+200
+250
+3
+If 2x=10, what is x?
+2
+3
+4
+5
+4
+If 3x+2=11, what is x?
+2
+3
+4
+5
+2
+If 5x=25, what is x?
+2
+3
+4
+5
+4
+If 6x=36, what is x?
+4
+5
+6
+7
+3
+If 7x=49, what is x?
+5
+6
+7
+8
+3
+If 8x=64, what is x?
+6
+7
+8
+9
+3
+If 9x=81, what is x?
+7
+8
+9
+10
+3
+If 10x=100, what is x?
+8
+9
+10
+11
+3
+If 11x=121, what is x?
+9
+10
+11
+12
+3
+If 12x=144, what is x?
+10
+11
+12
+13
+3
+If 2 men can paint a wall in 6 days, how many men paint it in 3 days?
+2
+3
+4
+5
+3
+If 3 machines produce 30 items in 3 hours, how many produce 90 items in 9 hours?
+3
+6
+9
+12
+1
+If 4 men can dig a pit in 8 days, how many men dig it in 4 days?
+4
+6
+8
+10
+3
+If 5 men can build a house in 20 days, how many men build it in 10 days?
+5
+10
+15
+20
+2
+If 6 men can complete a task in 12 days, how many men complete it in 6 days?
+6
+12
+18
+24
+2
+If 7 men can finish a job in 14 days, how many men finish it in 7 days?
+7
+14
+21
+28
+2
+If 8 men can do a work in 16 days, how many men do it in 8 days?
+8
+16
+24
+32
+2
+If 9 men can complete a task in 18 days, how many men complete it in 9 days?
+9
+18
+27
+36
+2
+If 10 men can build a wall in 20 days, how many men build it in 10 days?
+10
+20
+30
+40
+2
+If 11 men can finish a job in 22 days, how many men finish it in 11 days?
+11
+22
+33
+44
+2
+If 12 men can complete a task in 24 days, how many men complete it in 12 days?
+12
+24
+36
+48
+2
+If 13 men can do a work in 26 days, how many men do it in 13 days?
+13
+26
+39
+52
+2
+If 14 men can finish a job in 28 days, how many men finish it in 14 days?
+14
+28
+42
+56
+2
+If 15 men can complete a task in 30 days, how many men complete it in 15 days?
+15
+30
+45
+60
+2
+If 16 men can build a wall in 32 days, how many men build it in 16 days?
+16
+32
+48
+64
+2
+If 17 men can finish a job in 34 days, how many men finish it in 17 days?
+17
+34
+51
+68
+2
+If 18 men can complete a task in 36 days, how many men complete it in 18 days?
+18
+36
+54
+72
+2
+If 19 men can do a work in 38 days, how many men do it in 19 days?
+19
+38
+57
+76
+2
+If 20 men can finish a job in 40 days, how many men finish it in 20 days?
+20
+40
+60
+80
+2
+If 21 men can complete a task in 42 days, how many men complete it in 21 days?
+21
+42
+63
+84
+2

@@ -1,0 +1,360 @@
+Which sport is known as the gentleman’s game?
+Football
+Cricket
+Hockey
+Tennis
+2
+Which country won the first Cricket World Cup in 1975?
+India
+Australia
+West Indies
+Pakistan
+3
+Which sport uses a shuttlecock?
+Badminton
+Tennis
+Squash
+Table Tennis
+1
+Which sport is played at Wimbledon?
+Football
+Tennis
+Cricket
+Golf
+2
+Which sport uses a bat and ball?
+Football
+Cricket
+Hockey
+Tennis
+2
+Which country hosted the 2019 Cricket World Cup?
+India
+Australia
+England
+Pakistan
+3
+Which sport is played at FIFA World Cup?
+Cricket
+Football
+Hockey
+Tennis
+2
+Which sport is played at ICC World Cup?
+Football
+Cricket
+Hockey
+Tennis
+2
+Which country won the 1992 Cricket World Cup?
+India
+Pakistan
+Australia
+England
+2
+Who was the captain of Pakistan in 1992 World Cup?
+Wasim Akram
+Imran Khan
+Javed Miandad
+Inzamam ul Haq
+2
+Which sport uses a hoop and ball?
+Basketball
+Football
+Cricket
+Hockey
+1
+Which sport uses a net and ball?
+Football
+Basketball
+Volleyball
+Hockey
+3
+Which sport is played on ice with skates?
+Cricket
+Ice Hockey
+Football
+Tennis
+2
+Which sport is played with a racket?
+Football
+Cricket
+Tennis
+Hockey
+3
+Which sport is played with wickets?
+Football
+Cricket
+Hockey
+Tennis
+2
+Which sport is played with a goalpost?
+Football
+Cricket
+Hockey
+Tennis
+1
+Which sport is played with a stick and ball?
+Football
+Cricket
+Hockey
+Tennis
+3
+Which sport is played with a bat and stumps?
+Football
+Cricket
+Hockey
+Tennis
+2
+Which sport is played with a round ball and basket?
+Football
+Basketball
+Cricket
+Hockey
+2
+Which sport is played with a racket and table?
+Football
+Cricket
+Table Tennis
+Hockey
+3
+Who scored the most runs in international cricket?
+Sachin Tendulkar
+Ricky Ponting
+Virat Kohli
+Brian Lara
+1
+Who took the most wickets in Test cricket?
+Wasim Akram
+Muttiah Muralitharan
+Shane Warne
+Anil Kumble
+2
+Which country won the 2011 Cricket World Cup?
+India
+Pakistan
+Australia
+Sri Lanka
+1
+Who was the captain of India in 2011 World Cup?
+MS Dhoni
+Virat Kohli
+Sachin Tendulkar
+Sourav Ganguly
+1
+Which country won the 2007 T20 World Cup?
+India
+Pakistan
+Australia
+West Indies
+1
+Who was the captain of Pakistan in 2009 T20 World Cup?
+Younis Khan
+Shahid Afridi
+Misbah ul Haq
+Shoaib Malik
+1
+Which country won the 2009 T20 World Cup?
+India
+Pakistan
+Australia
+West Indies
+2
+Who scored the fastest century in ODI cricket?
+AB de Villiers
+Shahid Afridi
+Chris Gayle
+Virat Kohli
+1
+Who scored the fastest century in Test cricket?
+Brendon McCullum
+Viv Richards
+Misbah ul Haq
+Adam Gilchrist
+1
+Which country won the 1996 Cricket World Cup?
+India
+Pakistan
+Sri Lanka
+Australia
+3
+Who was the captain of Sri Lanka in 1996 World Cup?
+Arjuna Ranatunga
+Sanath Jayasuriya
+Mahela Jayawardene
+Kumar Sangakkara
+1
+Which country won the 1983 Cricket World Cup?
+India
+Pakistan
+Australia
+West Indies
+1
+Who was the captain of India in 1983 World Cup?
+Kapil Dev
+Sunil Gavaskar
+Mohinder Amarnath
+Sourav Ganguly
+1
+Which country won the 1979 Cricket World Cup?
+India
+Pakistan
+West Indies
+Australia
+3
+Who was the captain of West Indies in 1979 World Cup?
+Clive Lloyd
+Viv Richards
+Brian Lara
+Chris Gayle
+1
+Which country won the 2003 Cricket World Cup?
+India
+Pakistan
+Australia
+England
+3
+Who was the captain of Australia in 2003 World Cup?
+Steve Waugh
+Ricky Ponting
+Allan Border
+Michael Clarke
+2
+Which country won the 2015 Cricket World Cup?
+India
+Australia
+New Zealand
+South Africa
+2
+Who was the captain of Australia in 2015 World Cup?
+Michael Clarke
+Steve Smith
+Ricky Ponting
+David Warner
+1
+Which country won the 2019 Cricket World Cup?
+India
+Australia
+England
+New Zealand
+3
+Who scored the highest individual score in ODI cricket?
+Sachin Tendulkar
+Rohit Sharma
+Martin Guptill
+Chris Gayle
+2
+Who scored the highest individual score in Test cricket?
+Brian Lara
+Sachin Tendulkar
+Virender Sehwag
+Don Bradman
+1
+Who scored the fastest double century in ODI cricket?
+Virender Sehwag
+Chris Gayle
+Rohit Sharma
+Martin Guptill
+3
+Who scored the fastest double century in Test cricket?
+Nathan Astle
+Virender Sehwag
+Chris Gayle
+Brian Lara
+1
+Who scored the fastest fifty in ODI cricket?
+AB de Villiers
+Shahid Afridi
+Chris Gayle
+Virat Kohli
+2
+Who scored the fastest fifty in Test cricket?
+Misbah ul Haq
+Brendon McCullum
+Adam Gilchrist
+Viv Richards
+1
+Who scored the fastest fifty in T20 cricket?
+Yuvraj Singh
+Chris Gayle
+Shahid Afridi
+AB de Villiers
+1
+Who scored the fastest century in T20 cricket?
+Chris Gayle
+Yuvraj Singh
+Shahid Afridi
+Brendon McCullum
+1
+Who scored the fastest double century in T20 cricket?
+Chris Gayle
+Rohit Sharma
+Virat Kohli
+David Warner
+1
+Who scored the fastest triple century in Test cricket?
+Virender Sehwag
+Brian Lara
+Chris Gayle
+Don Bradman
+1
+Who scored the fastest triple century in ODI cricket?
+No player
+Rohit Sharma
+Chris Gayle
+Virender Sehwag
+1
+Who scored the fastest triple century in T20 cricket?
+No player
+Chris Gayle
+Virat Kohli
+David Warner
+1
+Who scored the fastest 150 in ODI cricket?
+AB de Villiers
+Chris Gayle
+Virender Sehwag
+Rohit Sharma
+1
+Who scored the fastest 150 in Test cricket?
+Brendon McCullum
+Virender Sehwag
+Chris Gayle
+Adam Gilchrist
+1
+Who scored the fastest 150 in T20 cricket?
+Chris Gayle
+Yuvraj Singh
+Shahid Afridi
+AB de Villiers
+1
+Who scored the fastest 200 in Test cricket?
+Nathan Astle
+Brian Lara
+Virender Sehwag
+Chris Gayle
+1
+Who scored the fastest 250 in Test cricket?
+Virender Sehwag
+Brian Lara
+Chris Gayle
+Don Bradman
+1
+Who scored the fastest 300 in Test cricket?
+Virender Sehwag
+Brian Lara
+Chris Gayle
+Don Bradman
+1
+Who scored the fastest 400 in Test cricket?
+Brian Lara
+Virender Sehwag
+Chris Gayle
+Don Bradman
+1
+Who scored the fastest 500 in Test cricket?
+No player
+Brian Lara
+Chris Gayle
+Virender Sehwag
+1

@@ -1,0 +1,361 @@
+Which device is used to input text?
+Monitor
+Keyboard
+Printer
+Speaker
+2
+Which of these is an output device?
+Mouse
+Scanner
+Printer
+Microphone
+3
+Which language is closest to machine language?
+Assembly
+C++
+Python
+Java
+1
+Which company developed C++?
+Microsoft
+Apple
+Bell Labs
+IBM
+3
+Which extension is used for C++ source files?
+.cpp
+.c
+.java
+.py
+1
+Which header file is used for input/output in C++?
+stdio.h
+iostream
+conio.h
+fstream
+2
+Which symbol is used for single-line comments in C++?
+//
+--
+##
+**
+1
+Which operator is used for assignment in C++?
+==
+=
++=
+<=
+2
+Which keyword is used to define a constant in C++?
+const
+final
+static
+constant
+1
+Which function is the entry point of a C++ program?
+start()
+main()
+begin()
+init()
+2
+Which operator is used to access members of a class?
+.
+::
+->
+#
+1
+Which data type is used to store true/false values?
+int
+bool
+char
+float
+2
+Which operator is used for equality comparison?
+=
+==
+!=
+<=
+2
+Which loop executes at least once?
+for
+while
+do while
+foreach
+3
+Which keyword is used to exit a loop?
+stop
+exit
+break
+end
+3
+Which keyword is used to continue to next iteration?
+skip
+next
+continue
+pass
+3
+Which operator is used for increment?
+++
+--
++=
+**
+1
+Which operator is used for decrement?
+++
+--
+-=
+**
+2
+Which keyword is used to include libraries?
+import
+include
+using
+library
+2
+Which keyword is used to define a class?
+struct
+class
+object
+define
+2
+Which concept allows using same function name with different parameters?
+Inheritance
+Polymorphism
+Overloading
+Encapsulation
+3
+Which concept allows a derived class to access base class members?
+Abstraction
+Inheritance
+Encapsulation
+Overloading
+2
+Which keyword is used to inherit a class publicly?
+public
+private
+protected
+extends
+1
+Which keyword is used to inherit a class privately?
+public
+private
+protected
+extends
+2
+Which keyword is used to inherit a class protectedly?
+public
+private
+protected
+extends
+3
+Which operator is overloaded for output in C++?
+>>
+<<
+==
++=
+2
+Which operator is overloaded for input in C++?
+>>
+<<
+==
++=
+1
+Which keyword is used to allocate memory dynamically?
+malloc
+new
+alloc
+create
+2
+Which keyword is used to free dynamically allocated memory?
+delete
+free
+remove
+clear
+1
+Which keyword is used to define a function inside a class?
+method
+function
+member
+inline
+4
+Which keyword is used to prevent inheritance?
+final
+sealed
+stop
+end
+1
+Which keyword is used to declare abstract functions?
+virtual
+abstract
+override
+pure
+1
+Which keyword is used to override base class functions?
+override
+virtual
+redefine
+extend
+1
+Which keyword is used to define namespaces?
+namespace
+package
+module
+scope
+1
+Which keyword is used to access global variables?
+global
+scope
+::
+extern
+3
+Which keyword is used to define inline functions?
+inline
+fast
+quick
+macro
+1
+Which keyword is used to define macros?
+macro
+define
+const
+static
+2
+Which keyword is used to handle exceptions?
+try
+catch
+throw
+error
+1
+Which keyword is used to throw exceptions?
+try
+catch
+throw
+error
+3
+Which keyword is used to catch exceptions?
+try
+catch
+throw
+error
+2
+Which concept hides implementation details from the user?
+Polymorphism
+Encapsulation
+Abstraction
+Inheritance
+3
+Which concept binds data and functions together?
+Polymorphism
+Encapsulation
+Abstraction
+Inheritance
+2
+Which concept allows same interface with different implementations?
+Polymorphism
+Encapsulation
+Abstraction
+Inheritance
+1
+Which keyword is used to declare friend functions?
+friend
+buddy
+mate
+ally
+1
+Which keyword is used to declare static members?
+static
+const
+final
+shared
+1
+Which keyword is used to declare mutable members?
+mutable
+change
+var
+dynamic
+1
+Which keyword is used to declare volatile members?
+volatile
+dynamic
+mutable
+unstable
+1
+Which keyword is used to declare register variables?
+register
+fast
+quick
+cpu
+1
+Which keyword is used to declare extern variables?
+extern
+outside
+global
+scope
+1
+Which keyword is used to declare auto variables?
+auto
+var
+dynamic
+local
+1
+Which keyword is used to declare default constructors?
+constructor
+default
+init
+class
+2
+Which keyword is used to declare destructors?
+destructor
+delete
+destroy
+free
+1
+Which keyword is used to declare templates?
+template
+generic
+pattern
+model
+1
+Which keyword is used to declare type definitions?
+typedef
+define
+alias
+using
+1
+Which keyword is used to declare enumerations?
+enum
+enumerate
+list
+set
+1
+Which keyword is used to declare unions?
+union
+combine
+merge
+group
+1
+Which keyword is used to declare structures?
+struct
+class
+object
+define
+1
+Which keyword is used to declare virtual functions?
+virtual
+override
+abstract
+pure
+1
+Which keyword is used to declare pure virtual functions?
+virtual
+override
+abstract
+=0
+4
+Which keyword is used to declare operator overloading?
+operator
+overload
+function
+method
+1
+
