@@ -8,8 +8,8 @@
 #include<fstream>
 #include<cstdlib>
 #include<ctime>
-#include<conio.h>
 #include<string>
+#include<cstring>
 using namespace std;
 void menu(); 
 void subject();   //for selecting subj,taken from user
