@@ -10,7 +10,29 @@
 #include<ctime>
 #include<string>
 #include<cstring>
+#include<limits>
 using namespace std;
+#ifndef QUIZ_DATA_DIR
+#define QUIZ_DATA_DIR "txt_files"
+#endif
+string data_file(const string& filename)
+{
+	return string(QUIZ_DATA_DIR) + "/" + filename;
+}
+void clear_screen()
+{
+	cout << "\033[2J\033[3J\033[H" << flush;
+}
+void pause_screen(bool discard_input_line = false)
+{
+	if (discard_input_line)
+	{
+		cin.ignore(numeric_limits<streamsize>::max(), '\n');
+	}
+	cout << "Press Enter to continue...";
+	string line;
+	getline(cin, line);
+}
 void menu(); 
 void subject();   //for selecting subj,taken from user
 void file_open(); //for opening repective file
@@ -33,7 +55,7 @@ void loging(char name[], int score, int cc, int ic); //for logging player data i
 void review(); //for reviewing incorrect questions
 void replay(); //for replayig the same questions
 
-ifstream fin("science.txt");
+ifstream fin;
 
 int questions[10] = { 0 };//random questions nos srored in array and randomixed in void selection
 //2 char in int questions (range=00-19)
@@ -83,7 +105,7 @@ int main()
 	do
 	{
 		score = 0;
-		system("cls");
+		clear_screen();
 		char c;
 		menu();
 		switch (menu_)
@@ -93,7 +115,7 @@ int main()
 
 			do
 			{
-				system("cls");
+				clear_screen();
 				subject(); //it furter leads to difficulty() before coming back to main()
 				file_open();
 				que_load();
@@ -174,7 +196,7 @@ void menu() //for selecting menu option.
 }
 void subject() //for selecting subject
 {
-	system("cls");
+	clear_screen();
 	cout << "-------------------------------------\n";
 	cout << "===============Quiz Game=============\n";
 	cout << "-------------------------------------\n";
@@ -193,13 +215,13 @@ void subject() //for selecting subject
 }
 void highscore()
 {
-	system("cls");
+	clear_screen();
 	cout << "-------------------------------------\n";
 	cout << "===============Quiz Game=============\n";
 	cout << "-------------------------------------\n";
 	cout << "          <- Leaderboard ->         \n";
 	cout << "-------------------------------------\n";
-	ifstream ffin("high.txt");
+	ifstream ffin(data_file("high.txt"));
 	if (!ffin.is_open())
 	{
 		cout << "Highscore file is not open!";
@@ -234,7 +256,7 @@ void file_open() // for opening the file//futher leads to loads all questions fr
 	switch (sub)
 	{
 	case 1:
-		fin.open("science.txt");
+		fin.open(data_file("science.txt"));
 		if (!fin.is_open())
 		{
 			cout << "file is closed";
@@ -242,7 +264,7 @@ void file_open() // for opening the file//futher leads to loads all questions fr
 		break;
 	case 2:
 	{
-		fin.open("computer.txt");
+		fin.open(data_file("computer.txt"));
 		if (!fin.is_open())
 		{
 			cout << "file is closed";
@@ -251,7 +273,7 @@ void file_open() // for opening the file//futher leads to loads all questions fr
 	}
 	case 3:
 	{
-		fin.open("sports.txt");
+		fin.open(data_file("sports.txt"));
 		if (!fin.is_open())
 		{
 			cout << "file is closed";
@@ -260,7 +282,7 @@ void file_open() // for opening the file//futher leads to loads all questions fr
 	}
 	case 4:
 	{
-		fin.open("history.txt");
+		fin.open(data_file("history.txt"));
 		if (!fin.is_open())
 		{
 			cout << "file is closed";
@@ -269,7 +291,7 @@ void file_open() // for opening the file//futher leads to loads all questions fr
 	}
 	case 5:
 	{
-		fin.open("logic.txt");
+		fin.open(data_file("logic.txt"));
 		if (!fin.is_open())
 		{
 			cout << "file is closed";
@@ -311,7 +333,7 @@ void question_display()
 	for (int i = 0; i < 10; ++i)
 	{
 		t = 10;
-		system("cls");
+		clear_screen();
 
 		cout << "===============Quiz Game=============\n";
 		lifeline_show();
@@ -381,7 +403,7 @@ void question_display()
 		bool check = verify((int)answer, f);
 		if (check)
 		{
-			system("cls");
+			clear_screen();
 			cout << "===============Quiz Game=============\n";
 			cout << setw(25) << setfill(' ') << right << "Correct Answer" << endl;
 			cout << "=================================\n";
@@ -392,7 +414,7 @@ void question_display()
 		}
 		else
 		{
-			system("cls");
+			clear_screen();
 			cout << "===============Quiz Game=============\n";
 			cout << setw(25) << setfill(' ') << right << "Wrong Answer" << endl;
 			cout << "---------------------------------\n";
@@ -409,9 +431,9 @@ void question_display()
 		time_t que_time_end = time(0);
 		double time_used = difftime(que_time_end, que_time);
 		time_check(time_used, t);
-		system("pause");
+		pause_screen(true);
 	}
-	system("pause");
+	pause_screen();
 	cout << "Total score was: " << score << endl;
 }
 void que_load()   //stores whole file into 4D char array
@@ -450,7 +472,7 @@ void difficulty()
 	cin.getline(N, 30);
 	cout << "=====================================\n";
 	x = diff;
-	system("pause");
+	pause_screen();
 }
 bool verify(int select, int key)
 {
@@ -553,7 +575,7 @@ void lifeline_use(int x, int y)
 }
 void option_remove(int i)
 {
-	system("cls");
+	clear_screen();
 	cout << "===============Quiz Game=============\n";
 	cout << "           50/50 ACTIVATED           \n";
 	cout << "---------------------------------\n";
@@ -603,7 +625,7 @@ void replace_function(int i)
 	} while (exists);
 
 	replace = true;
-	system("cls");
+	clear_screen();
 	cout << "===============Quiz Game=============\n";
 	cout << "         Question Replaced          \n";
 	cout << "---------------------------------\n";
@@ -628,7 +650,7 @@ void replace_function(int i)
 	check = verify((int)answer, val);
 	if (check)
 	{
-		system("cls");
+		clear_screen();
 		cout << "===============Quiz Game=============\n";
 		cout << "         Question Replaced          \n";
 		cout << setw(25) << setfill(' ') << right << "Correct Answer" << endl;
@@ -640,7 +662,7 @@ void replace_function(int i)
 	}
 	else
 	{
-		system("cls");
+		clear_screen();
 		cout << "===============Quiz Game=============\n";
 		cout << "         Question Replaced          \n";
 		cout << setw(25) << setfill(' ') << right << "Wrong Answer" << endl;
@@ -650,7 +672,7 @@ void replace_function(int i)
 		bonus_ = 0;
 	}
 	replace_used = true;
-	system("pause");
+	pause_screen(true);
 }
 void extra_time_function()
 {
@@ -707,7 +729,7 @@ void bonus()
 void highscore_update(char nam[], int scor, char name[][30], int scores[], int n)
 {
 
-	ifstream ffin("high.txt");
+	ifstream ffin(data_file("high.txt"));
 	if (!ffin.is_open())
 	{
 		cout << "Highscore file is not open!";
@@ -754,7 +776,7 @@ void highscore_update(char nam[], int scor, char name[][30], int scores[], int n
 	{
 		name[x][i] = nam[i];
 	}
-	ofstream fout("high.txt");
+	ofstream fout(data_file("high.txt"));
 	for (int i = 0; i < n; ++i)
 	{
 		fout << scores[i] << " " << name[i] << endl;
@@ -763,7 +785,7 @@ void highscore_update(char nam[], int scor, char name[][30], int scores[], int n
 }
 void loging(char name[], int score, int cc, int ic)
 {
-	ofstream logout("quiz_log.txt", ios::app);
+	ofstream logout(data_file("quiz_log.txt"), ios::app);
 	if (!logout.is_open())
 	{
 		cout << "File for logging data is not open!\n";
@@ -779,7 +801,7 @@ void loging(char name[], int score, int cc, int ic)
 }
 void review()
 {
-	system("cls");
+	clear_screen();
 	cout << "===============Quiz Game=============\n";
 	cout << "              Answer Key             \n\n";
 	int n = sizeof(wrong_ques[10]);
@@ -802,7 +824,7 @@ void review()
 		}
 		cout << "=================================\n";
 	}
-	system("pause");
+	pause_screen(true);
 	cout << "Do you want to replay the Questions(1 for Yes/0 for No)\n";
 	int asdf;
 	cin >> asdf;

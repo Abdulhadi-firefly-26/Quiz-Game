@@ -3,3 +3,6 @@ Dec 10 2025afaq                           Score: 8     Correct: 4     Incorrect:
 Dec 11 2025Abdulhadi                      Score: -18   Correct: 0     Incorrect: 9    Time & Date: 2026-01-30 20:18:33
 Jan 30 2026Abdulhadi                      Score: 120   Correct: 9     Incorrect: 0    Time & Date: 2026-01-30 20:21:04
 Jan 30 2026You know who                   Score: 120   Correct: 9     Incorrect: 0    Time & Date: 2026-02-02 20:44:31
+Abdulhadi                      Score: -6    Correct: 1     Incorrect: 8    Time & Date: 19:30:22
+Oct  3 2026Abdulhadi                      Score: 4     Correct: 2     Incorrect: 8    Time & Date: 19:34:53
+Oct  3 2026
